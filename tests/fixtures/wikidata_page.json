@@ -1,0 +1,443 @@
+{
+ "head": {
+  "vars": []
+ },
+ "results": {
+  "bindings": [
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q9000001"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Adoration of the Mystic Lamb (fixture)",
+     "xml:lang": "en"
+    },
+    "itemDescription": {
+     "type": "literal",
+     "value": "polyptych altarpiece",
+     "xml:lang": "en"
+    },
+    "type": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q144960"
+    },
+    "typeLabel": {
+     "type": "literal",
+     "value": "altarpiece",
+     "xml:lang": "en"
+    },
+    "collection": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q9100001"
+    },
+    "collectionLabel": {
+     "type": "literal",
+     "value": "St Bavo's Cathedral (fixture)",
+     "xml:lang": "en"
+    },
+    "creator": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q9200001"
+    },
+    "creatorLabel": {
+     "type": "literal",
+     "value": "Hubert van Eyck",
+     "xml:lang": "en"
+    },
+    "material": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q296955"
+    },
+    "materialLabel": {
+     "type": "literal",
+     "value": "oil paint",
+     "xml:lang": "en"
+    },
+    "inception": {
+     "type": "literal",
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "value": "1432-01-01T00:00:00Z"
+    },
+    "image": {
+     "type": "uri",
+     "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Fixture_lamb.jpg"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q9000001"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Adoration of the Mystic Lamb (fixture)",
+     "xml:lang": "en"
+    },
+    "itemDescription": {
+     "type": "literal",
+     "value": "polyptych altarpiece",
+     "xml:lang": "en"
+    },
+    "type": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q144960"
+    },
+    "typeLabel": {
+     "type": "literal",
+     "value": "altarpiece",
+     "xml:lang": "en"
+    },
+    "collection": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q9100001"
+    },
+    "collectionLabel": {
+     "type": "literal",
+     "value": "St Bavo's Cathedral (fixture)",
+     "xml:lang": "en"
+    },
+    "creator": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q9200001"
+    },
+    "creatorLabel": {
+     "type": "literal",
+     "value": "Hubert van Eyck",
+     "xml:lang": "en"
+    },
+    "material": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q106857709"
+    },
+    "materialLabel": {
+     "type": "literal",
+     "value": "panel",
+     "xml:lang": "en"
+    },
+    "inception": {
+     "type": "literal",
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "value": "1432-01-01T00:00:00Z"
+    },
+    "image": {
+     "type": "uri",
+     "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Fixture_lamb.jpg"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q9000001"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Adoration of the Mystic Lamb (fixture)",
+     "xml:lang": "en"
+    },
+    "itemDescription": {
+     "type": "literal",
+     "value": "polyptych altarpiece",
+     "xml:lang": "en"
+    },
+    "type": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q144960"
+    },
+    "typeLabel": {
+     "type": "literal",
+     "value": "altarpiece",
+     "xml:lang": "en"
+    },
+    "collection": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q9100001"
+    },
+    "collectionLabel": {
+     "type": "literal",
+     "value": "St Bavo's Cathedral (fixture)",
+     "xml:lang": "en"
+    },
+    "creator": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q9200002"
+    },
+    "creatorLabel": {
+     "type": "literal",
+     "value": "Jan van Eyck",
+     "xml:lang": "en"
+    },
+    "material": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q296955"
+    },
+    "materialLabel": {
+     "type": "literal",
+     "value": "oil paint",
+     "xml:lang": "en"
+    },
+    "inception": {
+     "type": "literal",
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "value": "1432-01-01T00:00:00Z"
+    },
+    "image": {
+     "type": "uri",
+     "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Fixture_lamb.jpg"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q9000001"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Adoration of the Mystic Lamb (fixture)",
+     "xml:lang": "en"
+    },
+    "itemDescription": {
+     "type": "literal",
+     "value": "polyptych altarpiece",
+     "xml:lang": "en"
+    },
+    "type": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q144960"
+    },
+    "typeLabel": {
+     "type": "literal",
+     "value": "altarpiece",
+     "xml:lang": "en"
+    },
+    "collection": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q9100001"
+    },
+    "collectionLabel": {
+     "type": "literal",
+     "value": "St Bavo's Cathedral (fixture)",
+     "xml:lang": "en"
+    },
+    "creator": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q9200002"
+    },
+    "creatorLabel": {
+     "type": "literal",
+     "value": "Jan van Eyck",
+     "xml:lang": "en"
+    },
+    "material": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q106857709"
+    },
+    "materialLabel": {
+     "type": "literal",
+     "value": "panel",
+     "xml:lang": "en"
+    },
+    "inception": {
+     "type": "literal",
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "value": "1432-01-01T00:00:00Z"
+    },
+    "image": {
+     "type": "uri",
+     "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Fixture_lamb.jpg"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q9000002"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "The Fall of the Rebel Angels (fixture)",
+     "xml:lang": "en"
+    },
+    "itemDescription": {
+     "type": "literal",
+     "value": "painting by Pieter Bruegel the Elder",
+     "xml:lang": "en"
+    },
+    "type": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q3305213"
+    },
+    "typeLabel": {
+     "type": "literal",
+     "value": "painting",
+     "xml:lang": "en"
+    },
+    "collection": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q9100002"
+    },
+    "collectionLabel": {
+     "type": "literal",
+     "value": "Royal Museums of Fine Arts of Belgium (fixture)",
+     "xml:lang": "en"
+    },
+    "creator": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q9200003"
+    },
+    "creatorLabel": {
+     "type": "literal",
+     "value": "Pieter Bruegel the Elder",
+     "xml:lang": "en"
+    },
+    "material": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q296955"
+    },
+    "materialLabel": {
+     "type": "literal",
+     "value": "oil paint",
+     "xml:lang": "en"
+    },
+    "depicts": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q9300001"
+    },
+    "depictsLabel": {
+     "type": "literal",
+     "value": "Archangel Michael",
+     "xml:lang": "en"
+    },
+    "inception": {
+     "type": "literal",
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "value": "1562-01-01T00:00:00Z"
+    },
+    "inventory": {
+     "type": "literal",
+     "value": "584",
+     "xml:lang": "en"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q9000002"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "The Fall of the Rebel Angels (fixture)",
+     "xml:lang": "en"
+    },
+    "itemDescription": {
+     "type": "literal",
+     "value": "painting by Pieter Bruegel the Elder",
+     "xml:lang": "en"
+    },
+    "type": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q3305213"
+    },
+    "typeLabel": {
+     "type": "literal",
+     "value": "painting",
+     "xml:lang": "en"
+    },
+    "collection": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q9100002"
+    },
+    "collectionLabel": {
+     "type": "literal",
+     "value": "Royal Museums of Fine Arts of Belgium (fixture)",
+     "xml:lang": "en"
+    },
+    "creator": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q9200003"
+    },
+    "creatorLabel": {
+     "type": "literal",
+     "value": "Pieter Bruegel the Elder",
+     "xml:lang": "en"
+    },
+    "material": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q296955"
+    },
+    "materialLabel": {
+     "type": "literal",
+     "value": "oil paint",
+     "xml:lang": "en"
+    },
+    "depicts": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q9300002"
+    },
+    "depictsLabel": {
+     "type": "literal",
+     "value": "angel",
+     "xml:lang": "en"
+    },
+    "inception": {
+     "type": "literal",
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "value": "1562-01-01T00:00:00Z"
+    },
+    "inventory": {
+     "type": "literal",
+     "value": "584",
+     "xml:lang": "en"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q9000003"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Tapestry with hunting scene (fixture)",
+     "xml:lang": "en"
+    },
+    "itemDescription": {
+     "type": "literal",
+     "value": "tapestry",
+     "xml:lang": "en"
+    },
+    "type": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q184296"
+    },
+    "typeLabel": {
+     "type": "literal",
+     "value": "tapestry",
+     "xml:lang": "en"
+    },
+    "collection": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q9100003"
+    },
+    "collectionLabel": {
+     "type": "literal",
+     "value": "Art & History Museum (fixture)",
+     "xml:lang": "en"
+    },
+    "material": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q42329"
+    },
+    "materialLabel": {
+     "type": "literal",
+     "value": "wool",
+     "xml:lang": "en"
+    },
+    "inception": {
+     "type": "literal",
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "value": "1500-01-01T00:00:00Z"
+    }
+   }
+  ]
+ }
+}
